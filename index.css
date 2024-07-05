@@ -6,6 +6,10 @@ body {
     color: red;
 }
 
+.yes {
+    color: rgb(17, 243, 17);
+}
+
 h1 {
     font-size: 100px;
     color: white;
