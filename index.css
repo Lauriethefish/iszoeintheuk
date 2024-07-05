@@ -1,0 +1,18 @@
+body {
+    background-color: black;
+}
+
+.no {
+    color: red;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    object-fit: contain;
+}
