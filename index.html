@@ -22,7 +22,7 @@
         const month = date.getUTCMonth() + 1;
         console.log(day, month);
 
-        const isZoeAbroad = (month == 7 && ((day >= 6 && day <= 19) || day >= 30)) || (month == 8 && day >= 1 && day <= 13) 
+        const isZoeAbroad = (month == 7 && ((day >= 6 && day <= 19) || day >= 30)) || (month == 8 && day >= 1 && day <= 12) 
         if(!isZoeAbroad) {
             document.getElementById("no").remove();
         }   else    {
